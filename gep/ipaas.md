@@ -30,3 +30,29 @@ graph LR
   1.0 --> |1.6|1.6[deploying release]
   1.6 --> |1.6.1|1.6.1[make release public]
 ```
+
+## PDM
+```mermaid
+graph LR
+	A[1: creating DB] --> B[2: connecting backend to DB]
+	B --> C[3: development of main functions in the backend]
+	C --> D[4: development of frontend]
+	D --> E[5: setting up school servers]
+	E --> F[6: testing]
+	F --> G[7: hosting application]
+	G --> H[8: releasing]
+```
+
+## GANTT
+> https://mermaid-js.github.io/mermaid/#/gantt
+```mermaid
+gantt
+    title IPaaS
+    dateFormat  DD-MM-YY
+    section setting servers
+    Hardware cleaning   :done a1, 01-01-14, 1d
+    Starting server     :after a1 , 1d
+    Configuring machine :after a1, 1d
+    section Another
+    Task in sec      :14-01-14  , 12d
+```
