@@ -50,3 +50,13 @@ Questo periodo deriva dalle 2 rivoluzioni industriali (Baudelaire dice che quest
 	 Questo testo tratta della piega dell'aclolismo e del degrado ed ipocrisia della societá.
 	 Il linguaggio utilizzato nel test mostra vasti utilizzi del gergo dei proletari (non si vede tanto nella traduzione...) peró viene utilizzato solo quando i personaggi parlano o pensano ma per descrivere l'ambiente e tutti quegli elementi narrati da Zola allora il linguaggio cambia e torna colto.
 	 Uno degli aspetti piú importanti peró é la regressione della mentalitá e modo di esprimersi in base ai personaggio che Zola sta narrando (questo sará uno dei punti principali della letteratura di Verga).
+
+## Etá vittoriana
+La societá inglese ha un enorme sviluppo industriale e scientifico nell'800.
+Questo periodo di sviluppo peró crea una scissione enorme tra borghesia e classe povera, la borghesia diventa sempre piú ricca grazie al trionfo industriale mentre per la classe povera diventa quasi impossibile diventare indipendente.
+Questa realtá divenne il tema chiave della scrittura realista inglese nella quale eccelse principalmente *Charles Dickens*.
+La scrittura di questo periodo mostra una tendenza a rappresentare la realta con un fine umoristico caricando i personagi.
+> Poeti vittoriani:
+- Charles Dickens:
+	---
+	Charles Dickens fu il migliore a capire la borghesia del tempo 
