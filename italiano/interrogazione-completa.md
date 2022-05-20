@@ -123,3 +123,23 @@ Le teorie di Zola verranno riprese solamente da *Luigi Capuana* e *Giovanni Verg
 	- riduzione del racconto all'essenziale
 	- rifiuto della drammaticitá
 	- rapporti cause/effetto sulla psicologia del personaggio
+
+## Decadentismo
+La corrente decadente andava di pari passo con quella positivistica, questa corrente un irrazionalismo che considerava il reale come una rete di analogie misteriose, il punto peró dice che queste analogie non potevano essere analizzate scientificamente (ecco perché andava contro al positivismo), potevano essere colte solo dall'intuizione umana.
+In questo periodo i poeti decadenti si sentono esclusi dalla societá siccome rifiutano la cultura di massa per continuare a seguire la loro teoria (dedicarsi completamente all'arte).
+> temi del decadentismo:
+- attrazione dagli stati anormali della coscienza (malattie mentali, allucinazioni, disturbi,...)
+- aspetti oscuri della realtá (corruzione, perfersione)
+- temi provocatori/taboo (lussuria, morte)
+
+In questo periodo nasce anche il concetto del vitalismo e superomismo.
+> ## Poeti Decadenti
+- Charles Baudleaire
+  --- 
+  Baudleaire ha una concenzione *mistica* della realtá ed il senso che il nostro *io* ha con il *tutto* (**Panismo**), la sua poesia inoltre indica una concezione non razionale della realtá che evidenzia maggiormente il pensiero decadente riguardo al distacco dalla ragione e razionalitá umana.
+  Inoltre Baudleaire tratta il simbolismo e il maledettismo (perché rifiuta i valori borghesi della morale corrente), queste 3 correnti assieme formano il cocnetto di decadentismo.
+  > Opere fatte:
+  - **Corrispondenze**: La poesia fa parte dei *I fiori del male* in cui si vede il concetto dello *spleen* e *ideal* (la rosa con i fiori).
+  In questa poesia si vede la visione del mondo e del reale in modo mistico, viene detto come le forme materiali della natura non sono altro che simboli di una realtá piú profonda che non compete la scienza, questa realtá forma una serie di legami miseriosi quali uniscono tutti gli elementi naturali.
+  In questa poesia per evidenziare questi elementi/collegamenti si usa molto lo studio dei sensi, ad esempio la descrizione degli odori, colori e sapori.
+  - **Albatro**: L'albatro mostra il dualismo della societá quale Baudleaire voleva denunciare, la poesia parla di un albatro che di per se é il re del mare ma quando viene catturato dai marinai questo viene deriso per il suo corpo sporporzionato, questa é un evidente critica a coloro che sono in grado di volare alto ma quanto si trovano sullo stesso piano di quelli che non capiscono finiscono con l'essere derisi per il loro essere fuori misura in quel contesto (Baudleaire usa il poeta come esempio)
