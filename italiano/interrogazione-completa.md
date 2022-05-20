@@ -143,3 +143,15 @@ In questo periodo nasce anche il concetto del vitalismo e superomismo.
   In questa poesia si vede la visione del mondo e del reale in modo mistico, viene detto come le forme materiali della natura non sono altro che simboli di una realtá piú profonda che non compete la scienza, questa realtá forma una serie di legami miseriosi quali uniscono tutti gli elementi naturali.
   In questa poesia per evidenziare questi elementi/collegamenti si usa molto lo studio dei sensi, ad esempio la descrizione degli odori, colori e sapori.
   - **Albatro**: L'albatro mostra il dualismo della societá quale Baudleaire voleva denunciare, la poesia parla di un albatro che di per se é il re del mare ma quando viene catturato dai marinai questo viene deriso per il suo corpo sporporzionato, questa é un evidente critica a coloro che sono in grado di volare alto ma quanto si trovano sullo stesso piano di quelli che non capiscono finiscono con l'essere derisi per il loro essere fuori misura in quel contesto (Baudleaire usa il poeta come esempio)
+
+## D'Annunzio
+D'Annunzio fu considerato un genio della letteratura, fin da piccolo pubblicó testi che divennero subito famosi.
+Le sue liriche mortano una tendenza estetizzante in cui trova il flusso decandente, D'Annunzio crea l'arte come valore supremo alla quale tutti sono subordinati, qui nasce il superomismo.
+L'estetismo dannunziano é sempre alla ricerca del bello, scriverá *il piacere* che sará appunto l'opera che mostrerá meglio questa sua ideologia ma, dopo questo testo, D'Annunzio ebbe una fase di stanchezza e si ripiega su sentimenti e fatti intimi.
+
+D'Annunzio rifiutava i valori borghesi, questo con l'aggiunta delle influenze decandenti lo portano e creare il concetto dell'**estetismo** quale é l'esaltazione del bello contro l'utile e l'arte come valore assoluto, questo concetto lo si vedrá nel *piacere*, da qui derivano: l'**edonismo** (l'arte é fonte di piacere) e, dopo un isolamente dell'artista dalla societa borghese e alcune influenze da altre correnti lo portano a definire il **superomismo** quale indica l'esaltazione dell'individuo e tutto il resto ne é subordinato (come l'estetismo ma per l'uomo stesso).
+ 
+> testi fatti:
+- **Un ritratto allo specchio, Andrea Sperelli ed Elena Muti**: il testo é tratto da *il piacere* e i temi chiave sono la critica all'estetismo, la sensualitá ed il vizio.
+Anche questo testo non tratta solo i personaggi in se ma ne descrive anche il loro discorso interiore peró, a differenza di Verga o di Zola, D'Annunzio traspare durante il racconto siccome si trovano vari commenti che fanno capire che sono raccontati da una voce onniscente.
+- **La pioggia nel pineto**: questa poesia fa parte dell *Alcyone* e mostra come la poesia venga trasformata in musica, lo studio e corrispondenza delle parole con l'essenza delle cose e soprattutto **la fusione tra l'uomo e la natura che portano ad una vita oltreumana**. 
