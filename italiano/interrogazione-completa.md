@@ -20,3 +20,33 @@ Oltre a questi aspetti questa corrente assume aspetti relativi al romanticismo e
 	La malattia viene descritta in modo scientifico e medico da corretta poesia scapigliata ma la donna ha l'immagine della morte e della voglia di distruggere l'uomo.
 	In questo testo si vede il concetto del piacere dato dalla sofferenza e l'ossessione della morte che sono dei tempi cari a Tarchetti.
 	Tarchetti descrive il rapporto come una tortura per l'uomo ma questo é anche un punto di piacere per quest'ultimo.
+
+
+## Positivismo e Naturalismo Francese
+Il naturalismo é una corrente che nasce in Francia nella seconda metá dell'800, é caratterizzato da una fiducia verso la scienza siccome questa é l'unica conoscenza possibile (secondo loro tutti i campi del sapere devono applicare il metodo scientifico).
+Secondo il positivismo la scienza ha il compito di studiare le leggi della natura in modo da ottenere un progresso materiale (in Italia prenderá il nome di verismo siccome descrive il vero).
+Questo periodo deriva dalle 2 rivoluzioni industriali (Baudelaire dice che questo periodo é solo un progresso morale infatti il positivismo era parallelo al decandentismo)
+> poeti/testi:
+- Gustave Flaubert, Madame Bovary:
+	---
+	Flaubert venne considerato un punto di riferimento per il naturalismo, il suo tipo di narrazione é distaccata ed impersonale.
+	Questo implica che il narratore non interviene all'interno della storia come invece succedeva nel romanzo ottocentesco ma il racconto ha il punto di vista del protagonista (questa tecnica sará ripresa e raffinata da Verga)
+	> testi fatti:
+	- **Madame Bovary**: uno dei testi piú importanti di Flaubert é Madame Bovary, questo romanzo é la storia di una ragazza di provincia che é spostata con un medico che lavora a Parigi.
+	Il testo parla della vita vuota e grigia della ragazza perché non é in grado di andare a Parigi e vivere la vita della grande cittá ma deve subire quella della sposa di campagna che aspetta il marito per la cena.
+	I temi chiave del testo sono l'insofferenza per la vita di provincia ed il contrasto tra sogno e realtá; come visto prima questi sono temi che richiamano la scapigliatura ed i Bohéme nonostante questo poeta faccia parte della corrente del naturalismo (come detto prima, il naturalismo e positivismo andavano di pari passo con il decandentismo).
+	Nel romanzo si cita spesso il sogno dato dalla letteratura visto che Emma (la protagonista) aveva come unica forma di immaginazione la lettura ed il racconto di quei posti in cui non é mai potuta andare.
+	Flaubert non si limita ad analizzare la condizione psicofisica della donna ma analizza l'aspetto emotivo di questa impersonificandosi nella donna stessa e raccontando quindi i suoi pensieri e punti di vista.
+
+- Emile Zola 
+	--- 
+	 Zolá tra tutti i naturalisti é colui che da una sistemazione piú concreta a questa corrente, esprimerá la teoria della sua narrativa nel testo *romanzo sperimentale*, in questo testo verranno raccontante le teorie ed il manifesto della scuola naturalista.
+	 > testi fatti
+	 - **L'alcol inonda Parigi**: Questo testo é un estratto da *L'Assommoir* quale é ambiantato nella Parigi operaia e parla dell'alcolismo, miseria e degradazione umana.
+	 Questo romanzo era anche un esperimento stilistico che assumeva le teorie descritte nel *romanzo sperimentale*.
+	 Il titolo del romanzo indica il nome in gergo francese dell'osteria in cui si beveva acquavite, infatti nella prefazione di tale Zola dice che vuole racchiudere *la lingua del popolo* in questo testo.
+	 L'estratto (l'alcol inonda Parigi) é narrato all'interno dell'*Assommoir* e tratta di Gervasia che é disgustata dall'odore delle pipe e dell'alcol e considerava quest'ultimo un veleno peró aveva il desiderio di bere quel veleno perché le dava piacere.
+	 Dopo l'assunzione dell'alcol la sua percezione cambia e, prima era disgustata dagli uomini ubriachi e del luogo in cui si trovava ma dopo le iniziava a sembrare un posto caldo ed accogliente.
+	 Questo testo tratta della piega dell'aclolismo e del degrado ed ipocrisia della societá.
+	 Il linguaggio utilizzato nel test mostra vasti utilizzi del gergo dei proletari (non si vede tanto nella traduzione...) peró viene utilizzato solo quando i personaggi parlano o pensano ma per descrivere l'ambiente e tutti quegli elementi narrati da Zola allora il linguaggio cambia e torna colto.
+	 Uno degli aspetti piú importanti peró é la regressione della mentalitá e modo di esprimersi in base ai personaggio che Zola sta narrando (questo sará uno dei punti principali della letteratura di Verga).
