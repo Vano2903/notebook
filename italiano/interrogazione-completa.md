@@ -65,6 +65,42 @@ La scrittura di questo periodo mostra una tendenza a rappresentare la realtá co
 	In questo testo inoltre fa vedere subito uno dei suoi temi principali ovvero la critica della societá perché gli uomini vengono considerati merci e cose.
 	Il tono ironico viene usato nella descrizione della cittá e indica la bruttezza di questo paesaggio 
 	
+
+## Poesia Simbolista
+### Mappa dal romanticismo al decadentismo e sotto correnti
+```mermaid
+graph TD
+	A[Romanticismo Europeo] --- B[Irrazionalismo e misticismo]
+	B --- C[Senso di connessione tra io e realtá]
+	C --- D[Panismo: unione tra io e il tutto]
+	C --- E[Vitalismo: esaltazione della vita senza freni]
+	C --- F[Fanciullino: refressione e forme infanitili]
+	A --- G[Conflitto societá-artistia]
+	G --- H[Rifiuto morale borghese]
+	H --- I[Decadentismo]
+	C --- I
+	I --- L[Superomismo: esaltazione dell'individuo come superiore]
+	E --- L
+	I --- M[Maledettismo: condotta di vita viziola speingendosi all'autoannientamento]
+	I --- N[Vittimismo: incapacitá di realizzarsi]
+	F --- N
+```
+### Poesia simbolista in Francia ed Italia
+| **paese** | **caratteristiche** | **autori** |
+|-- | -- | -- |
+| Francia | Poesia suggestiva ed evocativa, linguaggio analogico, denso e simboleggiante cose oscure | Baudleaire, Mallarmé
+| Italia | Ricerca di richiamano alla realtá misteriosa, importante la musicalitá nelle parole, ha un linguaggio analogico e trascura nessi logici | Pascoli, D'Annunzio
+
+### Naturalismo e Decadentismo
+| Naturalismo |  | Decadentismo |
+|--|--| -- 
+| Realtá regoalta da sistemi spiegabili razionalmente | Ideologia | Realtá pervasa dal mistreo dell'ignoto |
+| Serie di fatti oggettivi | Intreccio | Eventi soggettivi e scarsa trama
+| Molti personaggi, psicologia si mescola all'ambiente | Personaggi | Singolo protagonista con una psicologia complessa |
+| Descrizione dettagliata | Ambientazione | Descritti solo aspetti necessari
+| Temi riguardo la realtá sociale contemporanea | Temi | Temi irrazionali, legati al rapporto tra artista e societá
+
+	
 ## Verismo Italiano
 Zola ebbe un grande successo in Italia e si diffuse la figura del romanziere scienziato anche detto *realista*.
 Le teorie di Zola verranno riprese solamente da *Luigi Capuana* e *Giovanni Verga*.
