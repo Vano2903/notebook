@@ -64,3 +64,25 @@ La scrittura di questo periodo mostra una tendenza a rappresentare la realtá co
 	In questo testo inoltre fa vedere subito uno dei suoi temi principali ovvero la critica della societá perché gli uomini vengono considerati merci e cose.
 	Il tono ironico viene usato nella descrizione della cittá e indica la bruttezza di questo paesaggio 
 	
+## Verismo Italiano
+Zola ebbe un grande successo in Italia e si diffuse la figura del romanziere scienziato anche detto *realista*.
+Le teorie di Zola verranno riprese solamente da *Luigi Capuana* e *Giovanni Verga*.
+	
+> ## Poeti Veristi:
+- Luigi Capuana
+  ---
+	Capuana fu il primo a rielaborare la teoria del naturalismo ma esso dice che la scientificitá si puó dimostrare solo con la scelta dei mezzi espressivi inspirati dall'impersonalitá della narrazione.
+	> opere fatte:
+	- **Scienza e forma letteraria: l'impersonificazione**: In questo testo Capuana parla della sua distanza dal *romanzo sperimantale* di Zola e mostra come l'arte e la letteratura per lui non devono diventare scienza ma rimanere tali e seguire i loro solitu fini artistici.
+	Un altro aspetto importante relativo al testo ed ai concetti di Capuana é il principio dell'impersonalitá.
+	L'impersonalitá per l'autore é la scomparsa di quest'ultimo dall'opera stessa in modo da reprimere interventi soggettivi.
+- Giovanni Verga:
+	---
+	Verga fu colui che consolidó la corrente del verismo italiano, la sua narrazzione viene definita *mimetica* perché é in grado di completamente estraniarsi dal racconto ed immedesimarsi non solo nei personaggi stessi ma nella loro mente e sentimenti.
+	I suoi testi spesso parlano di opposizioni tra veri aspetti sociali/sentimentali o fisici, in un suo testo tratta dell'amore ed ambiente romantico della campagna e lo mette a confronto con la cittá che é un territorio freddo e veloce, tutto questo ovviamente avviene in maniera distaccata vista la sua teoria e scrittura mimetica.
+	> punti principali:
+	- impersonalitá
+	- refressione dal punto di vista narrativo
+	- riduzione del racconto all'essenziale
+	- rifiuto della drammaticitá
+	- rapporti cause/effetto sulla psicologia del personaggio
