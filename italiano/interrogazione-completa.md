@@ -155,3 +155,16 @@ D'Annunzio rifiutava i valori borghesi, questo con l'aggiunta delle influenze de
 - **Un ritratto allo specchio, Andrea Sperelli ed Elena Muti**: il testo é tratto da *il piacere* e i temi chiave sono la critica all'estetismo, la sensualitá ed il vizio.
 Anche questo testo non tratta solo i personaggi in se ma ne descrive anche il loro discorso interiore peró, a differenza di Verga o di Zola, D'Annunzio traspare durante il racconto siccome si trovano vari commenti che fanno capire che sono raccontati da una voce onniscente.
 - **La pioggia nel pineto**: questa poesia fa parte dell *Alcyone* e mostra come la poesia venga trasformata in musica, lo studio e corrispondenza delle parole con l'essenza delle cose e soprattutto **la fusione tra l'uomo e la natura che portano ad una vita oltreumana**. 
+
+## Pascoli
+La visione pascoliana del mondo rispecchia la crisi del positivismo siccome c'é una profonda sfiducia nella scienza come mezzo per l'interpretazione della realtá (**decadentismo**).
+Pascoli introduce un punto di vista nuovo perché dice che il mondo era un luogo frantumanto (siccome é stato emarignato contro la sua volontá ed ora non riesce piú a rientrare nel mondo che tutti stavano vivendo).
+Il mondo per pascoli é un posto incomprensibile, non ne capisce il significato, la sua poetica si baserá non su un quadro logico ma su elementi simbolici e allusivi per far intenderne un significato piú profondo.
+Da qui nasce il concetto del *fanciullino* in cui Pascoli si paragona ad un fanciullo che non é in grado di vedere il mondo in modo razionale siccome é visto dagli occhi di un bambino, esso infatti parlerá alla realtá al posto di descriverla e questo lo porterá a trovarne singificati nuovi.
+> testi fatti:
+- **X Agosto**: questa poesia richiama una tragedia personale (la morte del padre) e Pascoli trova una correlazione tra la morte avvenuta il 10 agosto e la notte di San Lorenzo (stesso giorno).
+In questa poesia si possono trovare diversi elementi simbolici che richiamano aspetti religiosi (non la religione in se) e cita il problema del male del mondo che é inguaribile.
+Il lessico é studiato perché le parole hanno un senso intriseco che, se analizzate, mostrano il senso della poesia da un lato piú profondo.
+- **Novembre**: La poesia tratta della realtá frutto dell'immaginazione, l'immagine simbolica della morte e la distruzione della sintassi.
+p 479 (sono stanco)
+
