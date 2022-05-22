@@ -14,9 +14,9 @@
 	1. [Charles Dickens](#dickens)
 		1. [La cittá industriale](#industriale)
 4. [Poesia Simbolisa](#simbolista)
-		1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
-		2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
-		3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
+	1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
+	2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
+	3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
 5. [Verismo Italiano](#verismo)
 	1. [Luigi Capuana](#capuana)
 		1. [Scienza e forma letteraria: l’impersonificazione](#impersonificazione)
@@ -36,7 +36,9 @@
 		1. [Manifesto del Futurismo](#manifesto)
 		2. [Manifesto tecnico della letteratura futurista](#manifesto-tecnico)
 10. [Italo Svevo](#svevo)
-===
+
+
+---
 
 ## Scapigliatura: <a name="scapigliatura"></a>
 il termine nasce da Cleto arrighi nel romando *la scapigliatura* (era la traduzione di bohéme).
@@ -213,7 +215,7 @@ p 479 (sono stanco)
  La scrittura futurista era semplice e veloce senza forme lessicali forbite (il loro tipo di scrittura inoltre richiamava il fasismo).
  
  > ## Poeti Futuristi
- - Filippo Tommaso Marinetti
+ - Filippo Tommaso Marinetti Futurismo <a name="marinetti"></a>
    ---
     Tommaso Marinetti scrisse *Il manifesto del futurismo* e lo pubblicó per la prima volta su un giornale francese *Le Figaro*, questo manifesto enunciava le teorie futuriste, una volta pubblicato Marinetti continuó ad esporre il futurismo al mondo e questo si estese fino in Italia ed altri paesi europei, da qui nacquero i movimenti avanguardisti.
     Marinetti voleva dar voce non alla psicologia umana ma alla materia, infatti nei suoi testi userá termini per descrivere odori, pesi e rumori (cambia dimensione del carattere, spazi per descrivere pause sonore, ...)
