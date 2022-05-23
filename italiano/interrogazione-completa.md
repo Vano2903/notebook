@@ -14,9 +14,9 @@
 	1. [Charles Dickens](#dickens)
 		1. [La cittá industriale](#industriale)
 4. [Poesia Simbolisa](#simbolista)
-	1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
-	2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
-	3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
+		1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
+		2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
+		3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
 5. [Verismo Italiano](#verismo)
 	1. [Luigi Capuana](#capuana)
 		1. [Scienza e forma letteraria: l’impersonificazione](#impersonificazione)
@@ -36,7 +36,13 @@
 		1. [Manifesto del Futurismo](#manifesto)
 		2. [Manifesto tecnico della letteratura futurista](#manifesto-tecnico)
 10. [Italo Svevo](#svevo)
-
+	1. [Una vita](#vita)
+	2. [I tre inetti](#inetti)
+	3. [I tre romanzi a confronto](#inetti)
+	4. [Le ali del gabbiano](#gabbiano)
+	5. [Il ritratto dell'inetto](#ritratto-inetto)
+	6. [Il fumo](#fumo)
+11. [Pirandello](#pirandello)
 
 ---
 
@@ -231,5 +237,37 @@ p 479 (sono stanco)
    **verbo all'infinito**: usare i verbi all'infinto distrugge ogni tipo di descrizione temporale quale inutile per la comprensione del testo.
    **eliminazione dell'aggettivo ed avverbio**: questo aspetto serviva per esaltare meglio le cose descritte. 
 
+
 ## Italo Svevo <a name="svevo"></a>
+Svevo subí diverse suggestioni culturali quali formarono il suo moto di scrivere e pensare.
+La corrente **filosofica** viene principalmente da *Schopenhauer* (l'uomo non é libero di scegliere), da *Marx* e *Nietzsche* (la classe sociale condiziona i comportamenti, critica della societá borghese).
+La **letteratura** proviene dall'unione del romanzo ingelse, realismo e naturalismo francese e romanzo psicologico quali uniti formano una corrente mista tra umorismo, critica della coscienza, deescrizione minuziona dei personaggi, personaggi inetti e analisi psicologiche dei personaggi.
+ Le opere di Svevo mostrano la sua cultura della scienza, le idee di Freud lo portano ad elaborare una concezione pessimistica tra uomo e realtá (l'uomo non é libero perché é condizionato da elementi che non puó controllare).
+ > utili da sapere:
+ - **una vita**<a name="vita"></a>: Il primo romanzo scritto da Svevo é *una vita* ed il protagonista é Alfonso Nitti.
+ Il romanzo tratta di quest'uomo che ha alti ideali ma finiranno in confilitto con la societá borghese (tema preso dai realisti francesi).
+ Nonostante tutti gli ideali Nitti si rivela non all'altezza di sostenerali e sará destinato al fallimento quale lo portano in una situazione di paralisi.
+ In questo romanzo appare la figura cara dell'**inetto**, Nitti si rivela un inetto perché rinuncia di lottare per raggiungere i propri ideali (essenzialmente si arrende alla vita), si arrende ed accetta la sconfitta.
+ - **i tre inetti**:<a name="inetti"></a>: I tre inetti sono i protagonisti dei suoi 3 romanzi (Nitti, Bretani e Cosini), tutti e 3 hanno difficoltá ad affrontare la vita ed incapaci di vivere (sono inetti perché non sono in grado di affrontare la vita, che non vuol'dire siano dei falliti, sono inetti perché smettono di lottare).
+  La differenza principale é che gli inetti dei primi due romanzi vanno incontro ad un totale fallimento invece ne *la coscienza di zeno*, Zeno realizza la sua condizione e, cosí facendo, riesce a straniarsi dalla societá e finisce per criticarla.
+  - **i tre romanzi a confronto**
+ 
+| | una vita e senilitá | la coscienza di zeno | 
+|--|--|--|
+| narratore | esterno | coincide con il protagonista |
+| focalizzazione | generalmente interna (coincide con il protagonista) ma con interventi del narratore | interna (ogni tanto interventi da Zeno narratore |
+| tempo | lineare (tipo fabula) | tempo misto (intreccio a nuclei tematici)
+| ambiente sociale | descrizione dettagliata dell'ambiente | l'ambiente é descritto dal punto di vista del protagonista
+ > testi fatti:
+ - **Le ali del gabbiano**<a name="gabbiano"></a>: Il testo é un estratto da *una vita* e racconta di un incontro tra Nitti e Macario (il suo opposto).
+ I temi chiave sono l'opposizione tra l'inetto (Nitti) e il suo opposto (Macario), inoltre viene messo in risalto il determinismo di Darwin (evoluzione della specie e selezione naturale).
+ Il centro del testo mette a risalto le difficoltá dell'inetto a prendere una posizione siccome ha paura del mare e non riesce a mantenere la calma, invece Macario é esperto e non mostra segni di debolezza, questa situazione portano l'uomo forte a esibire le proprie qualitá opprimento Nitti.
+ - **Il ritratto dell'inetto**<a name="ritratto-inetto"></a>: Il ritratto dell'inetto é tratto dalla senilitá e parla del concetto di maschere e l'opposizione tra malattia e salute.
+ In questo estratto si vede Emilio (protagonista) indossare una maschera superomistica per scappare dalla sua condizione di inettitudine, si crede una macchina geniale in costruzione (non é in grado di vedersi nella sua mediocritá).
+- **Il fumo**<a name="fumo"></a>: il fumo é tratto da *la coscienza di Zeno* e tratta della malattia di Zeno utilizzata come alibi, l'origine del vizio del fumo.
+Zeno giustifica la sua inettitudine (vive a 57 anni con l'amministratore, non é un gran che a suonare il violino, non studia o lavora, ...) attraverso la malattia quale secondo lui é data dal fumo.
+Dice di voler smettere di fumare per diventare un uomo migliore ma é proprio il fumo che lo porta a giustificare la sua malattia e instaurarsi nella sua personalitá come condizione psicologica.
+
+## Pirandello <a name="pirandello"></a>
+
  
