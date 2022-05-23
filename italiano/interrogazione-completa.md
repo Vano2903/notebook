@@ -47,6 +47,14 @@
 	2. [Il treno ha fischiato](#treno)
 	3. [Nessun nome](#no-name)
 12. [Ermetismo](#ermetismo)
+	1. [Quasimodo](#quasimodo)
+		1. [Ed é subito sera](#sera)
+		2. [Alle fronde dei salici](#salici)
+	2. [Ungaretti](#ungaretti)
+		1. [Fratelli](#fratelli)
+		2. [Veglia](#veglia)
+	3. [Montale](#montale)
+		1. [Meriggiare pallido e assorto](#meriggiare)
 
 ---
 
@@ -295,4 +303,48 @@ Nella descrizione dell'ambiante é da notare come l'obiettivo di Pirandello non 
 - **Nessun Nome**<a name="no-name"></a>: tratto da *uno nessuno centomila* questo estratto é la parte conclusiva del romanzo, in questa parte si enuncia il rifiuto della societá e la consapevolezza del vivere attimo per attimo, la fusione dell'io con la natura (panismo).
 La condizione del vivere attimo per attimo é una condizione di gioia perché permette alla persona di "rinascere attimo per attimo" impedendo che i brutti pensieri abbiano tempo di nascere nella mente.
 
- 
+
+## Ermetismo <a name="ermetismo"></a>
+la poetica ermetica si sviluppa negli anni 30 e sará capitanata principalmente da:
+- Salvatore Quasimodo
+- Giuseppe Ungaretti
+- Eugenio Montale
+
+Il termine significa chiusure/impenetrabile (deriva da Ermete Trismegisto), questo termine fu utilizzato per indicare l'oscuritá ed ambiguitá espressiva di alcuni poeti che richiamavano il simbolismo.
+I punti di riferimento degli ermetisti erano dei caffé a firenze detti "le giubbe rosse" (colore giacca dei camerieri).
+L'idea centrale dell'ermetismo é stato il rifiuto della letteratura come illustriazione della politica, storia e cronaca, invece volevano che la poesia fosse un esperienza totalizzante in modo che la persona possa trovare una propria identitá.
+Gli ermeti rifiutavano la situazione politica del tempo (fascismo), essi erano l'opposto del futurismo, cercavano una poesia pura (senza inquinamenti politico-civili).
+> ## Poeti Ermetici:
+- Salvatore Quasimodo<a name="quasimodo"></a>
+	---
+	Quasimodo fu tra i principali esponenti dell'ermetismo, le sue poesia sono incentrate sulla condizione esistenziale dell'uomo, segnata dalla solitudine e dalla precarietá.
+	La sua poesia racchiude a pieno il senso dell'ermetismo, una poesia corta con versi liberi ma di complesso e denso significato, il testo doveva essere corto per non diventare prolisso ma doveva racchiudere pienamente il senso da esprimere (le parole erano scelte minuziosamente).
+	 > testi fatti:
+	 - **Ed é subito sera**<a name="sera"></a>: Questa poesia racchiude a pieno il senso di solitudine dell'uomo perché descrive l'uomo come solo giá dal primo termine *ognuno* che fa intuire tutte le persone ma prese singolarmente, poi ne mette in risalto la precarietá quando dice:
+		 > trafitto da un raggio di sole:
+		 > ed é subito sera   
+		 
+		 in questo punto della poesia dice che all'uomo basa il calore del sole che li trafigge per diventare sera (morire).
+	- **Alle fronde dei salici**<a name="salici"></a>: in questa poesia viene mostrato il disprezzo della guerra (appunto perché l'ermetismo era il contrario del futurismo quale era pro guerra).
+	Quasimodo inizia la poesia con *E* come se fosse il proseguimento di una frase precedentemente iniziata, questa tecnica serve per far immedesimare maggiormente il lettore e il richiamo dell'io, un altro evento simile lo si ha alla penultima riga in cui dice *anche le nostre cetre* in cui indica che se tutto quello che é successo (la guerra) é anche colpa sua perché parla alla prima persona plurale (era un senso di solidarietá).
+	
+- Giuseppe Ungaretti<a name="ungaretti"></a>
+	- 
+	Ungaretti fu un altro esponente dell'ermetismo, la sua poetica aveva una sintassi breve con periodi semplici senza artefatti sintattici.
+	Il lessico utilizzato presetava un utilizzo di termini fortemente allusivi e l'alto utilizzo di pronomi/aggettivi che evidenziano l'immagine, per quanto riguarda la metrica utilizzava il verso libero con versi brevi.
+	> testi fatti
+	- **fratelli**<a name="fratelli"></a>: una poesia estratta da *L'allegria* (la sua raccolta piú celebre) mostra la fratellanza umana e la creacrietá della vita di un soldato.
+	La poesia é formata da 4 momenti, il primo punto é l'*incipit* quale é una domanda che riguarda l'appartenenza di alcuni confraterni, questo vengono chiamati *fratelli* come se Ungaretti volesse stabilire una solidarietá tra loro e il gruppo di "fratelli" a cui si rivolge.
+	La parola tremante indica peró la paura di essere in balia della guerra e del timore di poter morire in qualsiasi momento, specialmente nel caso in cui quel "fratelli" fosse rivolto al nemico.
+	- **Veglia**<a name="veglia"></a>: anche questa poesia tratta della guerra ma tratta anche dell'attaccamento alla vita.
+	La poesia si apre con una scena macabra che mostra la crudeltá della guerra (la scena di un compagno martoriato dalla guerra).
+	La vera parte fondamentale della poesia é alla fine in cui, dopo una linea vuota che separa dalla descrizione della guerra Ungaretti scrive *non sono mia stato tanto attaccatto alla vita*, questa frase mostra la completa pienezza della voglia di vivere anche in situazioni tremende come la guerra e rappresenta una protesta all'atrocitá della guerra.
+
+- Eugenio Montale: <a name="montale"></a>
+	- 
+	Montale era l'apoteosi del pessimismo, si allontana completamente dal simbolismo e dal futurismo, secondo lui la poesia non puó liberare l'uomo dalla sua condizione (il malessere) ma lo puó portare ad accettare tale condizione.
+	La sua opera piú famosa é *Ossi di seppia* che é una raccolta di poesia che trattano della poetica degli oggetti (oggetti hanno un valore allegorico e metafisico, evocando sentimenti, stati d'animo e diventando emblema del "male di vivere" che contraddistingue la condizione dell'uomo in questo periodo), l'ariditá della condizione umana e disarmonia con la realtá e l'indifferenza come rimedio.
+	> testi fatti:
+	- **Meriggiare pallido e assorto**<a name="meriggiare"></a>: questa poesia é tratta da *ossi di seppia*, il tema principale é l'impossibilitá di cercare la veritá.
+	La poesia mostra un momento in cui il tempo sembra essersi fermato e si ha una discussione muta tra l'uomo e le cose.
+	(mi sono rotto)
