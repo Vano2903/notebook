@@ -1,6 +1,6 @@
 # ITALIANO PROGRAMMA COMPLETO
 # Indice
-  1. [Scapigliatura](#scapigliatura)
+1. [Scapigliatura](#scapigliatura)
 	1. [Arrigo Boito](#boito)
 		1. [Case nuove](#case-nuove)
 	2. [Ugo Tarchetti](#tarchetti) 
@@ -14,9 +14,9 @@
 	1. [Charles Dickens](#dickens)
 		1. [La cittá industriale](#industriale)
 4. [Poesia Simbolisa](#simbolista)
-		1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
-		2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
-		3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
+	1. [Mappa da romanticismo al decadentismo](#mappa-romanticismo-decadentismo)
+	2. [Poesia simbolista in Francia ed Italia](#simbolista-francia-italia)
+	3. [Naturalismo e Decadentismo](#naturalismo-decadentismo)
 5. [Verismo Italiano](#verismo)
 	1. [Luigi Capuana](#capuana)
 		1. [Scienza e forma letteraria: l’impersonificazione](#impersonificazione)
