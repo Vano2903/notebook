@@ -1,6 +1,6 @@
 # ITALIANO PROGRAMMA COMPLETO
 # Indice
- 1. [Scapigliatura](#scapigliatura)
+  1. [Scapigliatura](#scapigliatura)
 	1. [Arrigo Boito](#boito)
 		1. [Case nuove](#case-nuove)
 	2. [Ugo Tarchetti](#tarchetti) 
@@ -43,13 +43,17 @@
 	5. [Il ritratto dell'inetto](#ritratto-inetto)
 	6. [Il fumo](#fumo)
 11. [Pirandello](#pirandello)
+	1. [Un'arte che scompone il reale](#arte-scompone-reale)
+	2. [Il treno ha fischiato](#treno)
+	3. [Nessun nome](#no-name)
+12. [Ermetismo](#ermetismo)
 
 ---
 
 ## Scapigliatura: <a name="scapigliatura"></a>
 il termine nasce da Cleto arrighi nel romando *la scapigliatura* (era la traduzione di bohéme).
 gli scagliati erano degli scrittori attivi a milano che avevano come filosofia l'insofferenza per la mentalitá comtemporanea.
-Gli scapigliati erano contro il concetto di modernitá dell'espoca perché esaltava il progresso scientifico e il profitto, questi poeti tendono quindi a rappresentare il vero nell'aspetto piú materiale possibile utilizzando un metodo analitico e il linguaggio scientifico del positivismo.
+Gli scapigliati erano contro il concetto di modernitá dell'epoca perché esaltava il progresso scientifico e il profitto, questi poeti tendono quindi a rappresentare il vero nell'aspetto piú materiale possibile utilizzando un metodo analitico e il linguaggio scientifico del positivismo.
 Oltre a questi aspetti questa corrente assume aspetti relativi al romanticismo e prende tematica come l'irrazionalitá e il gusto per il macabro (fosca, l'attrazione per la donna, la donna fatale).
 > ## Poeti Scapigliati:
 - Arrigo Boito: <a name="boito"></a>
@@ -269,5 +273,26 @@ Zeno giustifica la sua inettitudine (vive a 57 anni con l'amministratore, non é
 Dice di voler smettere di fumare per diventare un uomo migliore ma é proprio il fumo che lo porta a giustificare la sua malattia e instaurarsi nella sua personalitá come condizione psicologica.
 
 ## Pirandello <a name="pirandello"></a>
+Pirandello nacque in 1867, alla base del suo pensiero c'é la concezione della vita secondo la quale l'uomo e la realtá sono soggetti a costanti trasformazioni.
+La sua concezione si basa su due correnti:
+- **vitalismo**: secondo la quale l'uomo e la realta sono in continuo cambiamento
+- **teoria di Binet**: secondo cui in un individuo ci sono diverse personalitá (no disturbo mentale).
+
+Questi 2 elementi hanno portato Pirandello a definire l'idea de *l'identitá personale* secondo la quale questa non esiste come forma fissa me porta alla definizione di:
+- **maschera**: la maschera é definita dalla societá e l'individuo indossa una mascera in base al correre degli eventi
+- **trappola**:  la vita é una trappola alla quale si puó evadere solo con l'immaginazione e la follia.
+
+Nei testi di Pirandello viene mostrato come noi (come persona) siamo tanti individui che vengono messi in risalto a seconda della situazione, la presa di coscienza dell'indebolimento dell'io porta nei personaggi dolore a angoscia.
+Un altro aspetto caro a Pirandello é il *relativismo coscitivo* ossia la negazione della vertiá come fatto oggettivo, questo significa che ogniuno ha la propria veritá che é definita dal modo in cui questa persona vede il mondo.
+
+Pirandello ha un concetto dell'umorismo nato dal relativismo coscitivo quale secondo lui l'umorismo é l'attidurine a cogliere la differenza tra realtá ed apparenza ovvero il sapere cogliere il sentimento del contrario.
+> testi fatti:
+- **Un'arte che scompone il reale**<a name="arte-scompone-reale"></a>: quest'estratto da *l'umorismo* presenta aspetti prettamente riguardanti l'umorismo e viene mostrato come questo sia il sentimento del contrario e manifestazione della realtá moderna.
+L'umorismo é l'arte che ha preso consapevolezza della finzione della realtá.
+- **Il treno ha fischiato**<a name="treno"></a>: Questo testo estratto da *novelle per un anno* tratta della trappola che é il lavoro e la famiglia per il protagonista quale si troverá oppresso da essi e lo porterá ad uno stato di "pazzia" e la scomposizione umoristica della realtá.
+La novella tratta di un ambiante lavorativo tipico della piccola borghesia composto da elementi negativi attorno al protagonista.
+Nella descrizione dell'ambiante é da notare come l'obiettivo di Pirandello non si quello di rappresentare la realtá ma di estremizzare.
+- **Nessun Nome**<a name="no-name"></a>: tratto da *uno nessuno centomila* questo estratto é la parte conclusiva del romanzo, in questa parte si enuncia il rifiuto della societá e la consapevolezza del vivere attimo per attimo, la fusione dell'io con la natura (panismo).
+La condizione del vivere attimo per attimo é una condizione di gioia perché permette alla persona di "rinascere attimo per attimo" impedendo che i brutti pensieri abbiano tempo di nascere nella mente.
 
  
