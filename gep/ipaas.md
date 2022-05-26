@@ -94,3 +94,14 @@ I = informed of the work done
 | testing beta | A/C |  | C | C | R |
 | deploying release | A | R | C | I | I |
 | make release public | A/R | C | C | C | C |
+
+
+## WORK PACKAGE
+**Title**: docker sdk backend functions
+**Responsible**: Davide Vanoncini
+**Description**: Functions to create dockers based by the request.
+**Input**: Docker sdk, url of github repo, authentication's inputs
+**Resources**: 
+- Development environment 
+- Mariadb with tables
+- Linux os
