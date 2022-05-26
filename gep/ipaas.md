@@ -48,11 +48,19 @@ graph LR
 ```mermaid
 gantt
     title IPaaS
-    dateFormat  DD-MM-YY
+    dateFormat  DD-MM-YYYY
     section setting servers
-    Hardware cleaning   :done a1, 01-01-14, 1d
-    Starting server     :after a1 , 1d
-    Configuring machine :after a1, 1d
-    section Another
-    Task in sec      :14-01-14  , 12d
+    Hardware cleaning :done a1, 06-02-2022, 1d
+    Starting server : 07-02-2022  , 1d
+    Configuring machine :a2, 07-02-2022  , 1d
+    section docker functions
+    Coding db docker functions: a3, after a2, 7d
+    Coding github functions: a4, after a3, 14d
+    section backend functions
+    Coding endpoints: a5, after a4, 3d
+    Coding handlers: a6, after a4, 7d
+    section fronend
+    Coding frontend: a7, after a6, 1d
+    section deploying
+    Deploy on servers: a8, after a7, 1d
 ```
