@@ -1,8 +1,10 @@
+
 # IPaaS: ITIS Paleocapa as a Service
 
 IPaaS is a hosting service for the [ITIS Paleocapa](https://www.itispaleocapa.edu.it/) and it will let the students host their web-base application on the school servers.
 
 ## WBS
+
 ```mermaid
 graph LR
   1.0[1.0 IPAAS] --> |1.1|1.1[planning]
@@ -32,6 +34,7 @@ graph LR
 ```
 
 ## PDM
+
 ```mermaid
 graph LR
 	A[1: creating DB] --> B[2: connecting backend to DB]
@@ -44,7 +47,7 @@ graph LR
 ```
 
 ## GANTT
-> https://mermaid-js.github.io/mermaid/#/gantt
+
 ```mermaid
 gantt
     title IPaaS
@@ -64,3 +67,14 @@ gantt
     section deploying
     Deploy on servers: a8, after a7, 1d
 ```
+## OBS
+
+```mermaid
+graph TD
+	PM --> System-Engineer
+	PM --> Developers
+	Developers --> Backend-Developers
+	Developers --> Frontend-Developers
+	PM --> Testers
+```
+
